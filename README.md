@@ -1,79 +1,89 @@
-<h1 align="center">Hi 👋, I'm Preetam</h1>
-<h3 align="center">Full-Stack Developer | Data Science Enthusiast | BCA Graduate</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="center">
-  I build scalable web applications and data-driven solutions that solve real-world problems.
-  <br/>
-  Focused on clean code, strong fundamentals, and impactful digital products.
-</p>
+###
 
----
-
-## 🚀 About Me
-
-🎓 Bachelor of Computer Applications (BCA) Graduate  
-💻 Passionate about Full-Stack Development & Data Science  
-📊 Strong foundation in Python, Mathematics & Problem Solving  
-🧠 Practicing Data Structures & Algorithms daily  
-⚡ Building real-world projects with scalable architecture  
-
-I believe in disciplined learning, daily improvement, and turning ideas into powerful digital solutions.
-
----
-
-## 💻 Tech Stack
-
-### 🖥️ Frontend
-HTML | CSS | JavaScript | React | Next.js | TailwindCSS | Redux
-
-### ⚙️ Backend
-Python | FastAPI | PHP | MongoDB | Redis
-
-### 📊 Data & Machine Learning
-NumPy | Pandas | Matplotlib | Scikit-learn | MLflow
-
-### 🚀 Deployment & Tools
-Netlify | Vercel | Git | GitHub | Adobe Photoshop
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Event Management Platform**  
-Dynamic full-stack event system with payment integration and role-based features.
-
-🔹 **Data Analysis Dashboard**  
-Data visualization and insight generation using Pandas and Matplotlib.
-
-🔹 **REST API with FastAPI**  
-Secure, scalable backend API with authentication and CRUD operations.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venom0690&theme=tokyonight&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=venom0690&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venom0690&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/preetam_s_2004">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+<div align="center">
+  <a href="www.linkedin.com/in/preetam-s" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/preetam-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="preetam.satish321@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
-  <a href="mailto:preetam.satish321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="preetam_s_2004" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
-</p>
+</div>
 
----
+###
 
-<h3 align="center">⭐ Build. Optimize. Scale. Repeat.</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=venom0690.venom0690&"  />
+</div>
+
+###
+
+<h1 align="center">hey there im Preetam👋</h1>
+
+###
+
+<h3 align="left">🎓 Bachelor of Computer Applications (BCA) Graduate<br>💻 Passionate about Full-Stack Development & Data Science<br>📊 Strong foundation in Python, Mathematics & Problem Solving<br>🧠 Practicing Data Structures & Algorithms daily<br>⚡ Building real-world projects with scalable architecture<br><br>I believe in disciplined learning, daily improvement, and turning ideas into powerful digital solutions.</h3>
+
+###
+
+<p align="left">🚀 Currently Working On<br>- 🧠 Practicing Data Structures & Algorithms in Python (1 problem daily)<br>- 🛠 Building Full-Stack Web Projects<br>- 📈 Improving problem-solving & analytical thinking</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=venom0690&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/venom0690/venom0690/output/snake.svg" alt="Snake animation" />
+
+###
