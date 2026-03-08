@@ -223,7 +223,7 @@ philosophy: "Dream big, build bigger 🚀"
   <sub><b>@mpreetam_s_2004</b></sub>
 </td>
 <td align="center" width="25%">
-  <a href="www.linkedin.com/in/preetam-s">
+  <a href="hhtps://www.linkedin.com/in/preetam-s">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br/>
